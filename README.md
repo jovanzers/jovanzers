@@ -11,11 +11,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical&card_width=800" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical&card_width=800" />
+  </a>
+  <!-- <a href="https://github.com/WinTenDev/WinTenBot.NET">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WinTenDev&repo=WinTenBot.NET&theme=radical" />
+  </a>
+  <a href="https://github.com/WinTenDev/WinNetMeter">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WinTenDev&repo=WinNetMeter&theme=radical" />
+  </a> --!>
 </p>
-<!-- <a href="https://github.com/WinTenDev/WinTenBot.NET">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WinTenDev&repo=WinTenBot.NET&theme=radical" />
-</a>
-<a href="https://github.com/WinTenDev/WinNetMeter">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WinTenDev&repo=WinNetMeter&theme=radical" />
-</a> --!>
