@@ -14,3 +14,4 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ... -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
