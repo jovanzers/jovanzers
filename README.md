@@ -1,6 +1,6 @@
 ## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=blueviolet" alt="viewer" />
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nunc ut tortor tincidunt, eget ornare risus tincidunt.
 
@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nunc ut
 - 📫 How to reach me: [@Jovanzers](https://twitter.com/jovanzers)
 - ⚡ Fun fact: I ❤️ 😺
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical&card_width=800" />
 
 <!-- <a href="https://github.com/WinTenDev/WinTenBot.NET">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WinTenDev&repo=WinTenBot.NET&theme=radical" />
