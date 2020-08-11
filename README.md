@@ -11,4 +11,4 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ... -->
 
-![Jovanzers GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&count_private=true)
+![Jovanzers GitHub Stats](https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
