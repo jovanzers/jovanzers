@@ -1,8 +1,8 @@
-## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=blueviolet" alt="viewer" />
+## Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=d83a7c" alt="viewer" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pulvinar nunc ut tortor tincidunt, eget ornare risus tincidunt.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 - 🔭 I’m currently working on home
 - 💬 Ask me about ...
