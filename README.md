@@ -10,6 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - 📫 How to reach me: [@Jovanzers](https://twitter.com/jovanzers)
 - ⚡ Fun fact: I ❤️ 😺
 
+&nbsp;
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical&card_width=800" />
 </p>
