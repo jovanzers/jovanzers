@@ -6,7 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 - 🔭 I’m currently working on home
 - 💬 Ask me about ...
-- 🌱 I’m currently learning ...
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [@Jovanzers](https://twitter.com/jovanzers)
 - ⚡ Fun fact: I ❤️ 😺
