@@ -14,6 +14,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical&card_width=800" />
   </a>
+  <a href="https://github.com/fauzan264/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan264&layout=compact&theme=radical&card_width=800" />
+  </a>
   <!-- <a href="https://github.com/WinTenDev/WinTenBot.NET">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WinTenDev&repo=WinTenBot.NET&theme=radical" />
   </a>
