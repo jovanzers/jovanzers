@@ -1,6 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=d83a7c" alt="viewer" />
+## Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=d83a7c" alt="viewer" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=adityanurdin&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
