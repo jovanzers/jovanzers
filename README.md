@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - 💬 Ask me about something
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [@Jovanzers](https://twitter.com/jovanzers)
-- ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
+- ⚡ Fun fact: I ❤️ 😺 & 🐅 II <br>&nbsp;
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
