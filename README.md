@@ -1,3 +1,21 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=0366d6" alt="viewer" />
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img align="right" src="https://komarev.com/ghpvc/?username=jovanzers&style=flat&color=d83a7c" alt="viewer" />
 
-![Metrics](https://metrics.lecoq.io/jovanzers?template=classic&repositories.forks=true&languages=1&gists=1&introduction=1&people=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=bytes-size&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=26&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FJakarta&config.twemoji=true&config.display=large)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+- 🔭 I’m currently working on home
+- 💬 Ask me about something
+- 😄 Pronouns: he/him
+- 📫 How to reach me: [@Jovanzers](https://twitter.com/jovanzers)
+- ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical&card_width=800" />
+  </a>
+<!-- <a href="https://github.com/jovanzers">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovanzers&layout=compact&theme=radical" />
+</a> -->
+</p>
