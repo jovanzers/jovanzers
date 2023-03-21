@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ex enim, consectetur at porta non, sodales sit amet eros.
 
 - 🔭 I’m currently working on home
 - 💬 Ask me about something
